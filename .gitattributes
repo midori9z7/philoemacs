@@ -1,0 +1,2 @@
+# 统一用 LF 换行，免得在 Windows 上「文件明明没改却显示已修改」
+* text=auto eol=lf

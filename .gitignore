@@ -1,0 +1,20 @@
+# Emacs 运行时生成的东西，不进版本库
+*.elc
+eln-cache/
+elpa/
+custom.el
+auto-save/
+auto-save-list/
+backups/
+url/
+org-persist/
+transient/
+recentf
+history
+places
+bookmarks
+.projectile
+# 编辑器的临时文件
+*~
+\#*\#
+.\#*
